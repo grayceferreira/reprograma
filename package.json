@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grayceferreira/reprograma/issues"
   },
-  "homepage": "https://github.com/grayceferreira/reprograma#readme"
+  "homepage": "https://github.com/grayceferreira/reprograma#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
