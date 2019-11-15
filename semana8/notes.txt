@@ -1,0 +1,8 @@
+new Date(); //instancia a data do presente
+
+new Date(valor);
+
+Pesquisar Date - Javascrit no MDN
+
+math -> pacote do Javascrit com operações matemáticas
+
